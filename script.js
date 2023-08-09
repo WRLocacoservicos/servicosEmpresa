@@ -30,7 +30,7 @@ let password = document.getElementById('password').value
 if(User===users.name && password===users.password){
   console.log('uhuuuu')
   
-    location.href='./indexx.html'
+    location.href='./login.html'
     // alert(`Bem vindo ${User}`)
 
 } else if(User===users.name2 && password===users.password2) {
